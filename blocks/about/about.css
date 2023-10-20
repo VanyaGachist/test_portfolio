@@ -1,0 +1,6 @@
+.about {
+  display: flex;
+  margin: 210px auto 0;
+  gap: 40px;
+  max-width: 1108px;
+}

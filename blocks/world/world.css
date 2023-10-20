@@ -1,0 +1,9 @@
+.world {
+  max-width: 1104px;
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  flex-direction: column;
+  margin: 0 auto;
+  height: 353px;
+}

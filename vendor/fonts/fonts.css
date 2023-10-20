@@ -1,0 +1,44 @@
+@font-face {
+  font-family: 'Inter';
+  src: url("Inter-Black.woff")format('woff');
+  src: url("Inter-Black.woff2")format('woff2');
+  font-weight: 900;
+}
+
+@font-face {
+  font-family: 'Inter';
+  src: url("Inter-Regular.woff")format('woff');
+  src: url("Inter-Regular.woff2")format('woff2');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'Inter';
+  src: url("Inter-Medium.woff")format('woff');
+  src: url("Inter-Medium.woff2")format('woff2');
+  font-weight: 500;
+}
+
+@font-face {
+  font-family: 'Ubuntu';
+  src: url("ubuntubold.ttf")format('ttf');
+  src: url("ubuntubold.woff")format('woff');
+  src: url("ubuntubold.woff2")format('woff2');
+  font-weight: 700;
+}
+
+@font-face {
+  font-family: 'Ubuntu';
+  src: url("ubuntu.ttf")format('ttf');
+  src: url("ubuntu.woff")format('woff');
+  src: url("ubuntu.woff2")format('woff2');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: 'Ubuntu';
+  src: url('ubuntumedium.ttf')format('ttf');
+  src: url("ubuntumedium.woff")format('woff');
+  src: url("ubuntumedium.woff2")format('woff2');
+  font-weight: 500;
+}

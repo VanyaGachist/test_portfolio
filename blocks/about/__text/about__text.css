@@ -1,0 +1,11 @@
+.about__text {
+  color: #808296;
+  font-family: 'Inter';
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 23px;
+  grid-area: subtext;
+  margin: 0px;
+  max-width: 220px;
+}

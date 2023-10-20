@@ -1,0 +1,13 @@
+.stack__item {
+  position: relative;
+  border-radius: 10px;
+  background: #e0e0e0;
+  transition: box-shadow .3s ease;
+  text-align: center;
+  cursor: pointer;
+}
+
+.stack__item:hover {
+  box-shadow:  22px 22px 44px #aaaaaa,
+             -22px -22px 44px #ffffff;
+}

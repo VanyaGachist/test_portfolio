@@ -1,0 +1,7 @@
+.header_sticky {
+  position: sticky;
+  top: -100px;
+  left: 0px;
+  transition: top .4s ease, background-color .4s ease, color .4s ease;
+  color: black;
+}

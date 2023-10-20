@@ -1,0 +1,7 @@
+.header_sticky-active {
+  top: 0px;
+  background-color: black;
+  --color-text: white;
+  color: white;
+  z-index: 1;
+}

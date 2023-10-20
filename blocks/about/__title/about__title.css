@@ -1,0 +1,9 @@
+.about__title {
+  max-width: 614px;
+  color: #07040C;
+  font-size: 60px;
+  font-weight: 700;
+  line-height: normal;
+  grid-area: title;
+  margin: 0;
+}

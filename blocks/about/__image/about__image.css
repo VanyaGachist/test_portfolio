@@ -1,0 +1,7 @@
+.about__image {
+  min-height: 460px;
+  object-fit: cover;
+  object-position: center;
+  margin: 0 0 0 40px;
+  background-color: transparent;
+}

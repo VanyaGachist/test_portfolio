@@ -1,0 +1,7 @@
+.about__grid {
+  display: grid;
+  grid-template-areas:
+    "title title"
+    "subtitle subtitle"
+    "subtext .";
+}
